@@ -1,5 +1,4 @@
-#largest among them
-#in this program, you'll learn to find the largest among three numbers using if else & display it
+#largest among them in this program, you'll learn to find the largest among three numbers using if else & display it
 sharad1=10
 sharad2=14
 sharad3=12
